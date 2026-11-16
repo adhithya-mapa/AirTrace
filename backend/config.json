@@ -1,0 +1,7 @@
+{
+  "window_size": 20,
+  "min_ripples": 4,
+  "noise_margin": 12,
+  "electricity_unit_price": 40,
+  "tank_volume_L": 0.01
+}
